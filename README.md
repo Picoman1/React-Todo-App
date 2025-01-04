@@ -30,16 +30,6 @@ This is a responsive **Simple ToDoList Web Application** that allows users to lo
 
 ---
 
-## **Screenshots**
-
-### **Login Page**
-![Login Page Screenshot](path-to-your-login-page-image)
-
-### **ToDo List Page**
-![ToDo List Page Screenshot](path-to-your-todo-page-image)
-
----
-
 ## **Technologies Used**
 
 - **Frontend:**
